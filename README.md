@@ -1,4 +1,4 @@
-\# Machine Learning and CVaR Portfolio Optimization
+# Machine Learning and CVaR Portfolio Optimization
 
 
 
@@ -6,23 +6,23 @@ This project integrates machine learning, statistical analysis, and convex optim
 
 
 
-\## Methodology
+## Methodology
 
 
 
-- **Financial Data Analysis:\*\* Historical stock prices, daily and monthly returns, and Pearson correlation analysis.
+Financial Data Analysis: Historical stock prices, daily and monthly returns, and Pearson correlation analysis.
 
-\-**Machine Learning:** Monthly return forecasting using Ridge Regression, Random Forest, Extra Trees, and Gradient Boosting.
+Machine Learning: Monthly return forecasting using Ridge Regression, Random Forest, Extra Trees, and Gradient Boosting.
 
-\- \*\*Model Validation:\*\* Time-series cross-validation and inverse-RMSE ensemble weighting.
+Model Validation: Time-series cross-validation and inverse-RMSE ensemble weighting.
 
-\- \*\*Uncertainty Quantification:\*\* Residual-bootstrap simulations for probabilistic return forecasting.
+Uncertainty Quantification: Residual-bootstrap simulations for probabilistic return forecasting.
 
-\- \*\*Portfolio Optimization:\*\* Rockafellar–Uryasev Conditional Value-at-Risk (CVaR) minimization using constrained linear programming.
+Portfolio Optimization: Rockafellar–Uryasev Conditional Value-at-Risk (CVaR) minimization using constrained linear programming.
 
 
 
-\## Outputs
+## Outputs
 
 
 
