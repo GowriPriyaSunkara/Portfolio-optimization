@@ -10,9 +10,9 @@ This project integrates machine learning, statistical analysis, and convex optim
 
 
 
-\- \*\*Financial Data Analysis:\*\* Historical stock prices, daily and monthly returns, and Pearson correlation analysis.
+- **Financial Data Analysis:\*\* Historical stock prices, daily and monthly returns, and Pearson correlation analysis.
 
-\- \*\*Machine Learning:\*\* Monthly return forecasting using Ridge Regression, Random Forest, Extra Trees, and Gradient Boosting.
+\-**Machine Learning:** Monthly return forecasting using Ridge Regression, Random Forest, Extra Trees, and Gradient Boosting.
 
 \- \*\*Model Validation:\*\* Time-series cross-validation and inverse-RMSE ensemble weighting.
 
